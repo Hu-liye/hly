@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "home",
+    "section": "",
+    "text": "姓名: 胡乐怡\n学号: 2025303110129\n专业: 资源环境信息工程\n兴趣: 数据分析"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "home",
+    "section": "",
+    "text": "姓名: 胡乐怡\n学号: 2025303110129\n专业: 资源环境信息工程\n兴趣: 数据分析"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "环境数据分析\n空间数据可视化\n可重复性研究"
+  },
+  {
+    "objectID": "about.html#研究兴趣",
+    "href": "about.html#研究兴趣",
+    "title": "About",
+    "section": "",
+    "text": "环境数据分析\n空间数据可视化\n可重复性研究"
+  }
+]
